@@ -1,10 +1,12 @@
-{
-  "name": "Shayiri",
-  "developer": "apkMenu Team",
-  "rating": "4.9",
-  "size": "5.21 MB",
-  "iconUrl": "https://raw.githubusercontent.com/ahmedraza14r-hue/apkmenu-data/main/icon.png",
-  "downloadUrl": "https://raw.githubusercontent.com/ahmedraza14r-hue/apkmenu-data/main/Shayiri-debug.apk",
-  "description": "Best Shayiri App",
-  "category": "Tools"
-}
+[
+  {
+    "name": "Shayiri",
+    "developer": "apkMenu Team",
+    "rating": "4.9",
+    "size": "5.21 MB",
+    "iconUrl": "https://raw.githubusercontent.com/ahmedraza14r-hue/apkmenu-data/main/icon.png",
+    "downloadUrl": "https://raw.githubusercontent.com/ahmedraza14r-hue/apkmenu-data/main/Shayiri-debug.apk",
+    "description": "Best Shayiri App - Read and Share Beautiful Shayiri",
+    "category": "Tools"
+  }
+]
