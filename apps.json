@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Game Booster Pro",
+    "developer": "apkMenu Team",
+    "rating": "4.8",
+    "size": "12 MB",
+    "iconUrl": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+    "downloadUrl": "https://example.com/gamebooster.apk",
+    "description": "Phone ko Fast Karo, Game Lag Fix Karo!",
+    "category": "Tools"
+  },
+  {
+    "name": "Video Downloader",
+    "developer": "apkMenu Team",
+    "rating": "4.7",
+    "size": "8 MB",
+    "iconUrl": "https://cdn-icons-png.flaticon.com/512/2989/2989119.png",
+    "downloadUrl": "https://example.com/downloader.apk",
+    "description": "Kisi bhi Video ko Download Karo!",
+    "category": "Tools"
+  },
+  {
+    "name": "Photo Editor Pro",
+    "developer": "apkMenu Team",
+    "rating": "4.9",
+    "size": "25 MB",
+    "iconUrl": "https://cdn-icons-png.flaticon.com/512/3342/3342205.png",
+    "downloadUrl": "https://example.com/photoeditor.apk",
+    "description": "Best Photo Editing App!",
+    "category": "Photography"
+  }
+]
